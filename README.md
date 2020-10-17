@@ -34,7 +34,7 @@ Run the command "npm start" in your CLS & navigate to the specified port in your
 
 
 ## Deployed Application
-
+https://frozen-coast-74141.herokuapp.com/
 
 
 ## Contributing
