@@ -6,7 +6,7 @@
 * [Usage](#usage)
 * [License](#license)
 * [Visuals](#visuals)
-* [Deployed Application](#deployed)
+* [Deployment](#deployment)
 * [Contributing](#contributing)
 * [Support](#support)
 
@@ -33,7 +33,7 @@ Run the command "npm start" in your CLS & navigate to the specified port in your
 ![](images/visual.png)
 
 
-## Deployed Application
+## Deployment
 https://frozen-coast-74141.herokuapp.com/
 
 
